@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testing_kotlin</string>
+    <string name="hint_enterEmail">Enter Email</string>
+    <string name="hint_enterPassword">Enter Password</string>
+    <string name="hint_enterName">Enter Name</string>
+    <string name="btn_login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
